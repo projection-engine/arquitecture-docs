@@ -44,3 +44,15 @@ JSON format.
 
 Stores scene relationships with primitives.
 
+```js
+[
+    {
+        id, // Node ID
+        name, // Node name
+        primitives, // Primitives regID
+        children // Same object pattern as parent
+    },
+    // For each scene node
+]
+```
+
