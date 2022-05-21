@@ -9,7 +9,7 @@ An entity will always have a `components` key holding an objects that stores the
 
 - **Components**
 > Components are classes that primarily store data for the systems to use. Systems usually use filters for entities with a certain component that is required for it to work,
-like the `MeshComponent`, it is used by multiple systems that need a `MeshInstance` to work.
+like the `Mesh`, it is used by multiple systems that need a `MeshInstance` to work.
 
 - **Instances**
 > Instances are classes that serve data or actions to multiple systems, for example, the `FrameBufferInstance` offers an easy-to-use abstraction for frameBuffers in webgl2,
