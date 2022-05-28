@@ -4,7 +4,7 @@ This repository is focused on documenting the editor and engine core arquitectur
 
 ### Included
 
-- **Main**
+- **Editor**
   - Gizmos
   - Hooks 
   - GPU context sharing

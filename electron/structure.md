@@ -1,12 +1,12 @@
-### Main windows
+### Editor windows
 
 - [] homeWindow 
 
-> Main HUB window, lists projects and issues. Can create and modify projects.
+> Editor HUB window, lists projects and issues. Can create and modify projects.
 
 - [] projectWindow:
 
-> Main window. Loads project and shows content
+> Editor window. Loads project and shows content
 
 
 ### Secondary windows

@@ -84,7 +84,7 @@
 - **Methods**
 ```js
     set cubeMapShader([fragment, vertex]) // Setter for cubemap shader 
-    set shader([fragment, vertex, uniformData, onCompiled, settings]) // Setter for main shader
+    set shader([fragment, vertex, uniformData, onCompiled, settings]) // Setter for editor shader
     use(bind, additionalUniforms, isCubeMap) // Prepares material for render
 ```
 
