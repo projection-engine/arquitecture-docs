@@ -18,11 +18,11 @@ Script object, stores in a JSON format the script nodes, links comments and comp
 
 Raw script, stores javascript class without export.
 
-#### Material
+#### MaterialView
 
 > .material
 
-Material object, stores in a JSON format the material nodes, links and the compiled result (shaders, images, uniforms,
+MaterialView object, stores in a JSON format the material nodes, links and the compiled result (shaders, images, uniforms,
 etc...)
 
 #### Image

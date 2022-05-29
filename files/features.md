@@ -6,11 +6,11 @@
     - JPEG
     - glTF
 - **Create file**
-    - Material
+    - MaterialView
     - Script
     - Raw Script
 - **Open file by double-clicking**
-    - Material
+    - MaterialView
     - Mesh (broken)
     - Image (Not yet implemented)
     - Raw script

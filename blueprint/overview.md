@@ -4,6 +4,6 @@ The blueprint system is focused on  delivering a friendly UI for creating both s
 
 This documentation includes:
 
-- #### Material loading
+- #### MaterialView loading
 - #### Script execution
 - #### Compilation process
