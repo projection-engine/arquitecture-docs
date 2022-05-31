@@ -1,4 +1,4 @@
-## BlueprintView system compilation process
+## ScriptView system compilation process
 
 This engine supports a custom node based programming interface, both for GLSL code and for scripting.
 The compilation process is very similar between the two modes, the only big diference is that the code for scripting
