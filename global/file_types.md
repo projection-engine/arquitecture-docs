@@ -6,11 +6,11 @@
 
 Primitive file, stores mesh information like vertices and normals in a JSON format.
 
-#### Script
+#### Entity
 
 > .flow
 
-Script object, stores in a JSON format the script nodes, links comments and compiled JS code.
+Entity object, stores in a JSON format the script nodes, links comments and compiled JS code.
 
 #### Raw script
 

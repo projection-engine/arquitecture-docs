@@ -7,14 +7,14 @@
     - glTF
 - **Create file**
     - MaterialView
-    - Script
-    - Raw Script
+    - Entity
+    - Raw Entity
 - **Open file by double-clicking**
     - MaterialView
     - Mesh (broken)
     - Image (Not yet implemented)
     - Raw script
-    - Script
+    - Entity
 - **Search all files**
 - **Up folder**
 - **Drag drop**
