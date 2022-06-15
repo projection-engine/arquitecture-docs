@@ -9,7 +9,7 @@ This repository is focused on documenting the editor and engine core arquitectur
   - Hooks 
   - GPU context sharing
 - **Components**
-- **SceneView**
+- **ComponentEditor**
 - **Blueprints**
   - Scripts
   - Materials
