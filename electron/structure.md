@@ -12,6 +12,6 @@
 ### Secondary windows
 
 - [] deleteConfirmation
-> Window to confirm deletion
+> Main to confirm deletion
 - [] importConfirmation
-> Window to confirm data import
+> Main to confirm data import
