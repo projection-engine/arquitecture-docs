@@ -1,4 +1,4 @@
-## ScriptView system compilation process
+## ScriptEditor system compilation process
 
 This engine supports a custom node based programming interface, both for GLSL code and for scripting.
 The compilation process is very similar between the two modes, the only big diference is that the code for scripting
@@ -11,7 +11,7 @@ The first step to compile the shader is to build the uniforms and functions depe
 function instance (if not already instantiated) `getFunctionInstance` and its uniforms `getInputInstance`, these two methods will return
 the "stringfied" code  required. If the node doesn't need any of these two it will simply return an empty string.
 
-The GLSL body compiler works by finding the starting point (MaterialView node) and traces the dependency structure down to the first node without a parent.
+The GLSL body compiler works by finding the starting point (ShaderEditor node) and traces the dependency structure down to the first node without a parent.
 While doing this trace we build the structure by getting the current node function call with `getFunctionCall`,
 this method requires the linked inputs and current node index and generates one or multiple outputs (adds to itself the key that represents the GLSL variable name), the method then returns the string code for its execution.
 

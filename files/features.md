@@ -1,4 +1,4 @@
-## FilesView features
+## ContentBrowser features
 
 - **Upload file**
     - PNG
@@ -6,11 +6,11 @@
     - JPEG
     - glTF
 - **Create file**
-    - MaterialView
+    - ShaderEditor
     - Entity
     - Raw Entity
 - **Open file by double-clicking**
-    - MaterialView
+    - ShaderEditor
     - Mesh (broken)
     - Image (Not yet implemented)
     - Raw script

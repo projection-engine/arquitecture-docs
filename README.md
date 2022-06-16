@@ -13,7 +13,7 @@ This repository is focused on documenting the editor and engine core arquitectur
 - **Blueprints**
   - Scripts
   - Materials
-- **FilesView**
+- **ContentBrowser**
 - **MeshView**
 - **ImageView**
 - **Renderer**
