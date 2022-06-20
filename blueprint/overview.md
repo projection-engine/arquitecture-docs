@@ -5,5 +5,5 @@ The blueprint system is focused on  delivering a friendly UI for creating both s
 This documentation includes:
 
 - #### ShaderEditor loading
-- #### Entity execution
+- #### Scripts execution
 - #### Compilation process

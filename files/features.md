@@ -7,14 +7,14 @@
     - glTF
 - **Create file**
     - ShaderEditor
-    - Entity
-    - Raw Entity
+    - Scripts
+    - Raw Scripts
 - **Open file by double-clicking**
     - ShaderEditor
     - Mesh (broken)
     - Image (Not yet implemented)
     - Raw script
-    - Entity
+    - Scripts
 - **Search all files**
 - **Up folder**
 - **Drag drop**

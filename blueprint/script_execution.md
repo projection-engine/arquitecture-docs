@@ -1,4 +1,4 @@
-## Entity execution
+## Scripts execution
 
 The parsing occurs on the start of the renderer, it will take the code string and generate a class instance.
 
