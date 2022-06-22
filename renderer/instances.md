@@ -1,7 +1,7 @@
 ## Instances
 
 #### MeshInstance
-- **Constructor**
+- **RendererConstructor**
 ```js
 {
     id, // Defaults to new UUID
@@ -38,7 +38,7 @@
 
 #### CubeMapInstance
 
-- **Constructor**
+- **RendererConstructor**
 ```js
 (
     gpu, // Canvas context 
@@ -68,7 +68,7 @@
   
 #### MaterialInstance
 
-- **Constructor**
+- **RendererConstructor**
 ```js
 (
     gpu, // canvas context
