@@ -2,7 +2,7 @@
 
 The parsing occurs on the start of the renderer, it will take the code string and generate a class instance.
 
-All javascript code that needs to be executed in the ScriptSystem needs one entry point,
+All javascript code that needs to be executed in the Scripting needs one entry point,
 that being the `execute` method, this method will receive the required attributes to perform any operation.
 These are the following attributes:
 ```js
