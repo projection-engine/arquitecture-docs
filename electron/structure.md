@@ -1,12 +1,12 @@
-### Editor windows
+### EditorCamera windows
 
 - [] homeWindow 
 
-> Editor HUB window, lists projects and issues. Can create and modify projects.
+> EditorCamera HUB window, lists projects and issues. Can create and modify projects.
 
 - [] projectWindow:
 
-> Editor window. Loads project and shows content
+> EditorCamera window. Loads project and shows content
 
 
 ### Secondary windows
