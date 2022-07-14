@@ -14,7 +14,7 @@ These are the following attributes:
     KEYS, // Hash map referencing the JS events for keys (example: {KeyA: "KeyA"})
     mousePosition, // Current mouse position {x, y}
     camera, // RootCameraInstance instance 
-    glMatrix, // all glMatrix methods
+    glMatrix, // all glMatrix libs
     COMPONENTS // components names for accessing the components inside an entity.
 }
 ```
