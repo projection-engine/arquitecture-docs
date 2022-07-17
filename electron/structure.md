@@ -1,12 +1,12 @@
-### EditorCamera windows
+### CameraPostProcessing windows
 
 - [] homeWindow 
 
-> EditorCamera HUB window, lists projects and issues. Can create and modify projects.
+> CameraPostProcessing HUB window, lists projects and issues. Can create and modify projects.
 
 - [] projectWindow:
 
-> EditorCamera window. Loads project and shows content
+> CameraPostProcessing window. Loads project and shows content
 
 
 ### Secondary windows
