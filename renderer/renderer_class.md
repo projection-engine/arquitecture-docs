@@ -1,6 +1,6 @@
 ## Renderer
 
-<img src="https://github.com/projection-engine/engine/blob/v0.1.x-alpha/flow.jpg?raw=true" alt="CameraPostProcessing material"/>
+<img src="https://github.com/projection-engine/engine/blob/v0.1.x-alpha/flow.jpg?raw=true" alt="PostProcessing material"/>
 
 - **start**
 > Starts the render loop and stores the current frame inside the `_currentFrame` variable.

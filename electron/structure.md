@@ -1,12 +1,12 @@
-### CameraPostProcessing windows
+### PostProcessing windows
 
 - [] homeWindow 
 
-> CameraPostProcessing HUB window, lists projects and issues. Can create and modify projects.
+> PostProcessing HUB window, lists projects and issues. Can create and modify projects.
 
 - [] projectWindow:
 
-> CameraPostProcessing window. Loads project and shows content
+> PostProcessing window. Loads project and shows content
 
 
 ### Secondary windows
